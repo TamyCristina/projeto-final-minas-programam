@@ -1,0 +1,134 @@
+body{
+    background: linear-gradient(236.85deg, #a6aeba 27.26%, rgb(232, 232, 235) 96.03%);
+    font-family: "Roboto", sans-serif;
+}
+
+.lista-menu{
+  background: linear-gradient(236.85deg, #e6d709 27.26%, rgb(248, 248, 245) 96.03%);
+  font-family: "Roboto", sans-serif;
+  display:flex;
+  justify-content: space-evenly;
+  width:50%;
+  align-items:center;
+  display:flex;
+  position:flex;
+  width:100%; 
+  padding:8px; 
+  padding-bottom:32px; 
+  padding-top:32px; 
+  height:10px; 
+  list-style:none;
+  color:#00008B;
+}
+
+.titulo{
+    padding-right: 10px; 
+    padding-left: 10px;
+    font-size: 24px;
+    font-weight: 700;
+    color: #00008B;
+    text-align: center;
+}
+
+.fotodecapa{
+    padding-right: 60px; 
+    padding-left: 230px;
+}
+ 
+.introducao{
+    margin-left: 20px;
+    margin-left: 20px;;
+    word-wrap: normal;
+}
+
+.titulo-beneficio{
+    margin-top: 40px;
+    margin-bottom: 5px;
+    font-size: 22px;
+    font-weight: 700;
+    color: #00008B
+}
+
+.imagem-beneficio{
+    max-height: 400;
+    max-width: 400px;
+}
+
+.imagem-beneficio{
+    float: left;
+}
+
+.texto-beneficio{
+    margin-left: 20px;
+    word-wrap: normal;
+}
+
+.titulo-maleficios{
+    margin-top: 40px;
+    margin-bottom: 5px;
+    font-size: 22px;
+    font-weight: 700;
+    color: #00008B
+}
+
+.texto-maleficios{
+    margin-left: 20px;
+}
+
+.texto-maleficios2{
+    margin-left: 20px;
+    word-wrap: normal;
+}
+
+.imagem-maleficios{
+    max-height: 400;
+    max-width: 400px;
+}
+
+.imagem-maleficios{
+    float: right;
+}
+
+.contato {
+    background: linear-gradient(236.85deg, #e6d709 27.26%, rgb(248, 248, 245) 96.03%);
+    font-family: "Roboto", sans-serif;
+    display:flex;
+    justify-content: space-evenly;
+    width:50%;
+    align-items:center;
+    display:flex;
+    position:flex;
+    width:100%; 
+    padding:8px; 
+    padding-bottom:32px; 
+    padding-top:32px; 
+    height:10px; 
+    list-style:none;
+    color:#00008B
+}
+  
+.cadastro{
+    margin-bottom: 5px;
+    font-size: 22px;
+    font-weight: 700;
+    color: #838386;
+    padding: 32 px;
+    text-align: center;
+    align-items: center;
+    padding-bottom: 10px;
+}
+
+.dados-cadastro{
+    font-family: "Roboto", sans-serif;
+    background: linear-gradient(236.85deg, #011146 27.26%, rgb(107, 131, 198) 96.03%);
+    width: 50%;
+    display: block;
+    height: 80px;
+    list-style:none;
+    color:#f5f5f5;
+    border-radius: 100px;
+    text-align: center;
+    margin:0 auto;
+}
+
+
